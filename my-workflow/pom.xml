@@ -6,6 +6,7 @@
 	<modules>
 		<module>my-workflow-app</module>
 		<module>my-workflow-parent</module>
+		<module>my-workflow-rest</module>
 	</modules>
 	<parent>
 		<groupId>org.springframework.boot</groupId>
